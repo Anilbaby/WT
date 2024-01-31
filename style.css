@@ -1,0 +1,107 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #946d3b;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+nav {
+	background-color: #ccc;
+	padding: 10px;
+	text-align: center;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline;
+	margin: 0 5px;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #333;
+}
+
+main {
+	padding: 20px;
+    background-color: rgb(152, 189, 189);
+}
+
+main section {
+	margin-bottom: 20px;
+}
+
+main h2 {
+	margin-top: 0;
+}
+
+main ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+main li {
+	margin-bottom: 5px;
+}
+
+main li strong {
+	font-weight: bold;
+}
+
+main li a {
+	text-decoration: none;
+	color: #333;
+}
+
+main li a:hover {
+	text-decoration: underline;
+}
+
+main #contact {
+	border-top: 1px solid #333;
+	padding-top: 20px;
+}
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: 1px solid #050404;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+
+footer{
+    background-color: #5c5858;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
